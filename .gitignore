@@ -399,3 +399,29 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# --- Unity specific  ---
+
+# Carpetas generadas por Unity (no versionar)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+crashlytics-build.properties
+
+# Cache y artefactos varios
+*.unitypackage
+*.apk
+*.aab
+*.gradle
+.gradle/
+*.vsconfig
+
+# Rider / VS Code (si ya los ignoras arriba, puedes omitir)
+.idea/
+.vscode/
