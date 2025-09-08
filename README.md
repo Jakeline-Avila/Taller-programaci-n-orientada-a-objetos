@@ -1,4 +1,4 @@
-### Ejercicios de scripting
+### Taller 2 Scripting
 
 ***Integrantes:***
 - Jakeline María Avila Verbel
